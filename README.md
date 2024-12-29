@@ -1,4 +1,4 @@
-<h3 align="center">Hi! Let's Talk about Remote Sensing, Earth Observation & GIS Dev | SDG & Energy Access.</h3>
+<h3 align="center">Hi! Let's connect and talk about Remote Sensing, Earth Observation & GIS Dev | SDG & Energy Access.</h3>
 
 
 </p>
