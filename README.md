@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Martins I Ugwu</h1>
+<h1 align="center">Hi 👋, I'm Martins Ibuchukwu Ugwu </h1>
 <h3 align="center">Remote Sensing, Earth Observation & GIS Dev | SDG & Energy Access.</h3>
 
 
