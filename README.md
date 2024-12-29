@@ -14,7 +14,7 @@
 
 - 🤝 I’m looking for  **a fully funded graduate program to enhance further my geospatial skills and make an even more profound impact.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/tokoth](https://github.com/martinsbuchi2)
+- 👨‍💻 All of my projects are available at [https://github.com/martinsbuchi2](https://github.com/martinsbuchi2)
 
 - 📄 Know about my experiences [https://martinsbuchi2.github.io/portfolio/](https://martinsbuchi2.github.io/portfolio/)
 
