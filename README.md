@@ -28,7 +28,7 @@
 ![Esri Suites](https://img.shields.io/badge/esri-%23013243.svg?style=for-the-badge&logo=esri&logoColor=white)
 ![Geonode](https://img.shields.io/badge/GeoNode-%23F05033.svg?style=for-the-badge&logo=geonode&logoColor=white)
 ![Geoserver](https://img.shields.io/badge/GeoServer-3670A0?style=for-the-badge&logo=geoserver&logoColor=ffdd54)
-![Cartoveiw](https://img.shields.io/badge/CartoView-%23316192.svg?style=for-the-badge&logo=cartoview&logoColor=white)
+![Cartoveiw](https://img.shields.io/badge/Carto-%23316192.svg?style=for-the-badge&logo=carto&logoColor=white)
 ![GeoMedia](https://img.shields.io/badge/geoMedia-%23150458.svg?style=for-the-badge&logo=geomedia&logoColor=white)
 
 `REMOTE SENSING`
