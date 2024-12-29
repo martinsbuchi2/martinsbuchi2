@@ -1,16 +1,15 @@
-<h1 align="center">Hi 👋, I'm Martins Ibuchukwu Ugwu </h1>
-<h3 align="center">Remote Sensing, Earth Observation & GIS Dev | SDG & Energy Access.</h3>
+<h3 align="center">Hi! Let's Talk about Remote Sensing, Earth Observation & GIS Dev | SDG & Energy Access.</h3>
 
 
 </p>
 
 ***
 
-- 🤝 My work as **a Geospatial Expert at the Rural Electrification Agency of Nigeria has enabled the implementation of 160+MW of clean energy, directly impacting over 1 million lives**
+- 🤝 My work as **a Geospatial Expert at the Rural Electrification Agency of Nigeria** has enabled the implementation of 160+MW of clean energy, directly impacting over 1 million lives
 
-- 🌱 I’m also nurturing **Vironet, to provide technical support to clean energy players by translating EO data into actionable insights.**
+- 🌱 I’m also nurturing **Vironet**, to provide technical support to clean energy players by translating EO data into actionable insights.**
 
-- 🔭 I’m looking for  **a fully funded graduate program to enhance further my geospatial skills and make an even more profound impact.**
+- 🔭 I’m looking for  **a fully funded graduate program** to enhance further my geospatial skills and make an even more profound impact.**
 
 - 👯 I’m open to collaborate on **projects that work with open-source data and solutions.**
 
