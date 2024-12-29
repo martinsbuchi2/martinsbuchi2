@@ -44,7 +44,7 @@
 `PROGRAMMING & DATA ANALYSIS`
 
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23456392.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%53322492.svg?style=for-the-badge&logo=javascript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23322492.svg?style=for-the-badge&logo=javascript&logoColor=white)
 ![C-Language](https://img.shields.io/badge/CLanguage-%23999192.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3666A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
