@@ -23,7 +23,6 @@
 
 `GIS ENVIRONMENT`
 
-QGIS, ArcGIS Suites, GeoMedia
 
 ![QGIS](https://img.shields.io/badge/qgis-%23150458.svg?style=for-the-badge&logo=qgis&logoColor=white)
 ![Esri Suites](https://img.shields.io/badge/esri-%23013243.svg?style=for-the-badge&logo=esri&logoColor=white)
