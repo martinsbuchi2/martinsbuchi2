@@ -25,6 +25,13 @@
 
 QGIS, ArcGIS Suites, GeoMedia
 
+![QGIS](https://img.shields.io/badge/qgis-%23150458.svg?style=for-the-badge&logo=qgis&logoColor=white)
+![Esri Suites](https://img.shields.io/badge/esri-%23013243.svg?style=for-the-badge&logo=esri&logoColor=white)
+![Geonode](https://img.shields.io/badge/Geonode-%23F05033.svg?style=for-the-badge&logo=geonode&logoColor=white)
+![Geoserver](https://img.shields.io/badge/Geoserver-3670A0?style=for-the-badge&logo=geoserver&logoColor=ffdd54)
+![Cartoveiw](https://img.shields.io/badge/Cartoview-%23316192.svg?style=for-the-badge&logo=cartoview&logoColor=white)
+![GeoMedia](https://img.shields.io/badge/geomedia-%23150458.svg?style=for-the-badge&logo=geomedia&logoColor=white)
+
 `REMOTE SENSING`
 
 
@@ -39,7 +46,7 @@ QGIS, ArcGIS Suites, GeoMedia
 
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23316192.svg?style=for-the-badge&logo=javascript&logoColor=white)
-![C-Language](https://img.shields.io/badge/C-Language-%23316192.svg?style=for-the-badge&logo=c&logoColor=white)
+![C-Language](https://img.shields.io/badge/CLanguage-%23316192.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![GeoPandas](https://img.shields.io/badge/geopandas-%23150458.svg?style=for-the-badge&logo=geopandas&logoColor=white)
