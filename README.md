@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Martins I Ugwu</h1>
 <h3 align="center">Remote Sensing, Earth Observation & GIS Dev | SDG & Energy Access.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=martinsbuchi2&label=Profile%20views&color=0e75b6&style=flat" alt="martinsbuchi2" /> <a href="https://twitter.com/martinsbuchie" target="blank"><img src="https://img.shields.io/twitter/follow/martinsbuchie?logo=twitter&style=for-the-badge" alt="martinsbuchie" /></a> 
+
 </p>
 
 ***
 
 - 🔭 I’m currently working as **a Technical Assitant on Geospatial Analysis to the Executive Director at the Rural Electrification Agency of Nigeria**
 
-- 🌱 I’m building **Vironet, to provide technical support to clean energy players in Nigeria by translating EO data into actionable insights.**
+- 🌱 I’m nurturing **Vironet, to provide technical support to clean energy players in Nigeria by translating EO data into actionable insights.**
 
 - 👯 I’m open to collaborate on **projects that work with open-source data and solutions.**
 
@@ -18,8 +18,6 @@
 
 - 📄 Know about my experiences [https://martinsbuchi2.github.io/portfolio/](https://martinsbuchi2.github.io/portfolio/)
 
-- ⚡ Fun fact: **My birthday is on National Hug Day and that's my stars aligning gift from my parents.**
-
 ***
 <h3 align="left">Languages and Tools:</h3>
 
@@ -28,6 +26,12 @@
 QGIS, ArcGIS Suites, GeoMedia
 
 `REMOTE SENSING`
+![Google Earth Engine](https://img.shields.io/badge/googleearthengine-%23121011.svg?style=for-the-badge&logo=googleearthengine&logoColor=white)
+![Geemap](https://img.shields.io/badge/geemap-%23121011.svg?style=for-the-badge&logo=geemap&logoColor=white)
+![Leafmap](https://img.shields.io/badge/leafmap-%23121011.svg?style=for-the-badge&logo=leafmap&logoColor=white)
+![ENVI](https://img.shields.io/badge/envi-%23150458.svg?style=for-the-badge&logo=envi&logoColor=white)
+![ERDAS IMAGINE](https://img.shields.io/badge/erdasimagine-%23F05033.svg?style=for-the-badge&logo=erdasimagine&logoColor=white)
+![Idrisi](https://img.shields.io/badge/Idrisi-%23121011.svg?style=for-the-badge&logo=idrisi&logoColor=white)
 
 Google Earth Engine, Geemap, Leafmap, Erdas IMAGINE, ENVI, Idrisi
 
@@ -35,7 +39,7 @@ Google Earth Engine, Geemap, Leafmap, Erdas IMAGINE, ENVI, Idrisi
 
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23316192.svg?style=for-the-badge&logo=javascript&logoColor=white)
-![C-Language](https://img.shields.io/badge/C-%23316192.svg?style=for-the-badge&logo=c&logoColor=white)
+![C-Language](https://img.shields.io/badge/C-Language-%23316192.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![GeoPandas](https://img.shields.io/badge/geopandas-%23150458.svg?style=for-the-badge&logo=geopandas&logoColor=white)
