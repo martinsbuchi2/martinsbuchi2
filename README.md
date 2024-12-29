@@ -9,13 +9,13 @@
 
 - 🌱 I’m also nurturing **Vironet**, to provide technical support to clean energy players by translating EO data into actionable insights.**
 
-- 🔭 I’m looking for  **a fully funded graduate program** to enhance further my geospatial skills and make an even more profound impact.**
+- 🔭 I’m actively seeking **a fully funded graduate program** to enhance further my geospatial skills and make an even more profound impact.**
 
 - 👯 I’m open to collaborate on **projects that work with open-source data and solutions.**
 
-- 👨‍💻 All of my projects are available at **[My Github Profile](https://github.com/martinsbuchi2)**
+- 👨‍💻 All of my projects are available at [My Github Profile](https://github.com/martinsbuchi2)
 
-- 📄 Know about my experiences at **[My Professional Page](https://martinsbuchi2.github.io/)**
+- 📄 Know about my experiences at [My Professional Page](https://martinsbuchi2.github.io/)
 
 ***
 <h3 align="left">Languages and Tools:</h3>
