@@ -6,7 +6,7 @@
 
 ***
 
-- 🤝 My work as **a Geospatial Expert at the Rural Electrification Agency of Nigeria has enabled the implementation of 160+MW of clean energy**
+- 🤝 My work as **a Geospatial Expert at the Rural Electrification Agency of Nigeria has enabled the implementation of 160+MW of clean energy, directly impacting over 1 million lives**
 
 - 🌱 I’m also nurturing **Vironet, to provide technical support to clean energy players by translating EO data into actionable insights.**
 
