@@ -36,22 +36,22 @@
 
 ![Google Earth Engine](https://img.shields.io/badge/googleearthengine-%23555011.svg?style=for-the-badge&logo=googleearthengine&logoColor=white)
 ![Geemap](https://img.shields.io/badge/geemap-%23135011.svg?style=for-the-badge&logo=geemap&logoColor=white)
-![Leafmap](https://img.shields.io/badge/leafmap-%45121011.svg?style=for-the-badge&logo=leafmap&logoColor=white)
+![Leafmap](https://img.shields.io/badge/leafmap-%23135011.svg?style=for-the-badge&logo=leafmap&logoColor=white)
 ![ENVI](https://img.shields.io/badge/envi-%23150458.svg?style=for-the-badge&logo=envi&logoColor=white)
 ![ERDAS IMAGINE](https://img.shields.io/badge/erdasimagine-%23F05033.svg?style=for-the-badge&logo=erdasimagine&logoColor=white)
 ![Idrisi](https://img.shields.io/badge/idrisi-3670A0?style=for-the-badge&logo=idrisi&logoColor=ffdd54)
 
 `PROGRAMMING & DATA ANALYSIS`
 
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23316192.svg?style=for-the-badge&logo=javascript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23456392.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23322492.svg?style=for-the-badge&logo=javascript&logoColor=white)
 ![C-Language](https://img.shields.io/badge/CLanguage-%23316192.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![GeoPandas](https://img.shields.io/badge/geopandas-%23150458.svg?style=for-the-badge&logo=geopandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23150458.svg?style=for-the-badge&logo=django&logoColor=white)
-![Django](https://img.shields.io/badge/geodjango-%23150458.svg?style=for-the-badge&logo=geodjango&logoColor=white)
+![Geo Django](https://img.shields.io/badge/geodjango-%23150458.svg?style=for-the-badge&logo=geodjango&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
@@ -59,7 +59,7 @@
 
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-217346?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-217399?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
 ***
