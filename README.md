@@ -14,9 +14,9 @@
 
 - 👯 I’m open to collaborate on **projects that work with open-source data and solutions.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/martinsbuchi2](https://github.com/martinsbuchi2)
+- 👨‍💻 All of my projects are available at **[My Github Profile](https://github.com/martinsbuchi2)**
 
-- 📄 Know about my experiences [https://martinsbuchi2.github.io/portfolio/](https://martinsbuchi2.github.io/)
+- 📄 Know about my experiences at **[My Professional Page](https://martinsbuchi2.github.io/)**
 
 ***
 <h3 align="left">Languages and Tools:</h3>
