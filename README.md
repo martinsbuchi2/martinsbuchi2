@@ -6,13 +6,13 @@
 
 ***
 
-- 🔭 I’m currently working as **a Technical Assitant on Geospatial Analysis to the Executive Director at the Rural Electrification Agency of Nigeria**
+- 🔭 I’m looking for  **a fully funded graduate program to enhance further my geospatial skills and make an even more profound impact.**
 
-- 🌱 I’m nurturing **Vironet, to provide technical support to clean energy players in Nigeria by translating EO data into actionable insights.**
+- 🤝 I’m currently working as **a Technical Assitant on Geospatial Analysis to the Executive Director at the Rural Electrification Agency of Nigeria**
+
+- 🌱 I’m also nurturing **Vironet, to provide technical support to clean energy players in Nigeria by translating EO data into actionable insights.**
 
 - 👯 I’m open to collaborate on **projects that work with open-source data and solutions.**
-
-- 🤝 I’m looking for  **a fully funded graduate program to enhance further my geospatial skills and make an even more profound impact.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/martinsbuchi2](https://github.com/martinsbuchi2)
 
