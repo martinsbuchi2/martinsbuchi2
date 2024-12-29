@@ -29,7 +29,7 @@
 ![Geonode](https://img.shields.io/badge/GeoNode-%23F05033.svg?style=for-the-badge&logo=geonode&logoColor=white)
 ![Geoserver](https://img.shields.io/badge/GeoServer-3670A0?style=for-the-badge&logo=geoserver&logoColor=ffdd54)
 ![Cartoveiw](https://img.shields.io/badge/Carto-%23316192.svg?style=for-the-badge&logo=carto&logoColor=white)
-![GeoMedia](https://img.shields.io/badge/geoMedia-%23150458.svg?style=for-the-badge&logo=geomedia&logoColor=white)
+![GeoMedia](https://img.shields.io/badge/geoMedia-%23150477.svg?style=for-the-badge&logo=geomedia&logoColor=white)
 
 `REMOTE SENSING`
 
@@ -44,21 +44,21 @@
 `PROGRAMMING & DATA ANALYSIS`
 
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23456392.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23322492.svg?style=for-the-badge&logo=javascript&logoColor=white)
-![C-Language](https://img.shields.io/badge/CLanguage-%23316192.svg?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%53322492.svg?style=for-the-badge&logo=javascript&logoColor=white)
+![C-Language](https://img.shields.io/badge/CLanguage-%23999192.svg?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/python-3666A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![GeoPandas](https://img.shields.io/badge/geopandas-%23150458.svg?style=for-the-badge&logo=geopandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23150458.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Geo Django](https://img.shields.io/badge/geodjango-%23150458.svg?style=for-the-badge&logo=geodjango&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%44541011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 `EDITING, PRESENTATION & GRAPHICS`
 
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-218946?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-217399?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
