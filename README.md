@@ -26,14 +26,14 @@
 QGIS, ArcGIS Suites, GeoMedia
 
 `REMOTE SENSING`
+
+
 ![Google Earth Engine](https://img.shields.io/badge/googleearthengine-%23121011.svg?style=for-the-badge&logo=googleearthengine&logoColor=white)
 ![Geemap](https://img.shields.io/badge/geemap-%23121011.svg?style=for-the-badge&logo=geemap&logoColor=white)
 ![Leafmap](https://img.shields.io/badge/leafmap-%23121011.svg?style=for-the-badge&logo=leafmap&logoColor=white)
 ![ENVI](https://img.shields.io/badge/envi-%23150458.svg?style=for-the-badge&logo=envi&logoColor=white)
 ![ERDAS IMAGINE](https://img.shields.io/badge/erdasimagine-%23F05033.svg?style=for-the-badge&logo=erdasimagine&logoColor=white)
-![Idrisi](https://img.shields.io/badge/Idrisi-%23121011.svg?style=for-the-badge&logo=idrisi&logoColor=white)
-
-Google Earth Engine, Geemap, Leafmap, Erdas IMAGINE, ENVI, Idrisi
+![Idrisi](https://img.shields.io/badge/idrisi-3670A0?style=for-the-badge&logo=idrisi&logoColor=ffdd54)
 
 `PROGRAMMING & DATA ANALYSIS`
 
